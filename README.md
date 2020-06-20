@@ -12,7 +12,7 @@ De anderhalvemeter rol meter - antwoord op de rolmeterchallenge van Henk Rijckae
 
 ### Videos (dutch)
 
-* [Youtube](https://www.youtube.com/watch?v=q37EDivFVcY)
+* [Youtube](https://youtu.be/F3zZgtYZDA8)
 
 ## Schematics
 
