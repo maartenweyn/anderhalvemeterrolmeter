@@ -17,6 +17,6 @@ De anderhalvemeter rol meter - antwoord op de rolmeterchallenge van Henk Rijckae
 ## Schematics
 
 
-![Schematic](rolmeter_schematic.png)
+![Schematic](docs/rolmeter_schematic.png)
 
 
