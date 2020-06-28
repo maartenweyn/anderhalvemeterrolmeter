@@ -1,4 +1,4 @@
-# One and a half meters Social Distancing tape measure
+# "One and a half meters" social distancing tape measure
 My answer to Henk Rijckaert's #tapemeasurechallenge. A COVID19 tape measure that is red when it is unrolled less than 1.5m and green above 1.5m. He also says "one and a half meters" if the distance is exceeded. In this video I also explain the operation and use of an optical encoder.
 
 ## Hardware coponents
